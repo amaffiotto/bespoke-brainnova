@@ -4,22 +4,6 @@
 	color: #e63946;
 }
 
-.preloader-close{
-	background-color: #e63946;
-}
-
-.handle-preloader .animation-preloader .spinner{
-	border: 3px solid #e63946;
-}
-
-.handle-preloader .animation-preloader .txt-loading .letters-loading{
-  color: #e63946;
-}
-
-.handle-preloader .animation-preloader .txt-loading .letters-loading:before{
-  color: #e63946;
-}
-
 .header-top .weathre-box i{
 	color: #e63946;
 }
